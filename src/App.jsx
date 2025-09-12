@@ -1,4 +1,3 @@
-import React from "react";
 import "./index.css";
 import ReactDOM from "react-dom/client";
 import Header from "./Components/Header";
@@ -14,6 +13,13 @@ function App() {
       <FoodOption></FoodOption>
       <GroceryOption></GroceryOption>
       <DineOption></DineOption>
+      <div>
+        <img
+          className="max-w-full h-auto pb-15"
+          src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/portal/m/seo/App_download_banner.png"
+          alt=""
+        />
+      </div>
     </>
   );
 }
