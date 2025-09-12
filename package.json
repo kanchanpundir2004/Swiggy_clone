@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.13",
+    "parcel": "^2.15.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "tailwindcss": "^4.1.13"
+  },
+  "name": "swiggy_clone",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanchanpundir2004/Swiggy_clone.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kanchanpundir2004/Swiggy_clone/issues"
+  },
+  "homepage": "https://github.com/kanchanpundir2004/Swiggy_clone#readme",
+  "description": ""
+}
