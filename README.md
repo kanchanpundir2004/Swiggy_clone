@@ -50,3 +50,5 @@ npm start
 💳 Payment integration
 📱 Mobile app version
 ```
+📌Demo
+<img width="1912" height="878" alt="image" src="https://github.com/user-attachments/assets/bd164586-e629-490f-b46e-d3ea403aa4d1" />
